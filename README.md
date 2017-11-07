@@ -44,7 +44,13 @@ Any contribution is welcome!
 * [MaterialX](https://github.com/materialx/MaterialX) - Materials and look-dev
 * [USD](http://graphics.pixar.com/usd/docs/index.html) - Scenes
 
-## Dockers
+## Environment
+
+### Package management
+
+* [Rez](https://github.com/nerdvegas/rez/wiki) - Package manager helping environment resolution
+
+### Dockers
 
 * [Deadline](https://github.com/mottosso/docker-deadline)
 * [Kitsu/Zou](https://github.com/mottosso/docker-cgwire)
