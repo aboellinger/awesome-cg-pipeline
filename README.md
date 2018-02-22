@@ -62,6 +62,7 @@ Any contribution is welcome!
 * [Gaffer](https://github.com/GafferHQ/gaffer)
 * [Kabaret](https://pythonhosted.org/kabaret/)
 * [Plex](https://github.com/richteralexander/plex)
+* [DPA pipe](https://github.com/Clemson-DPA/dpa-pipe)
 
 ## Production Managers
 
